@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/346799096807584807/1c11fc921c8a4053a30d1b7d866a59dc/artifacts
+end_time: 1750078470886
+entry_point_name: ''
+experiment_id: '346799096807584807'
+lifecycle_stage: active
+run_id: 1c11fc921c8a4053a30d1b7d866a59dc
+run_name: popular-pig-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750078468992
+status: 3
+tags: []
+user_id: Himanshu

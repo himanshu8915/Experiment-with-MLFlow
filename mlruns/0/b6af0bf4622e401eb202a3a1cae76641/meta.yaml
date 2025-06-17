@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b6af0bf4622e401eb202a3a1cae76641/artifacts
+end_time: 1750076434478
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6af0bf4622e401eb202a3a1cae76641
+run_name: defiant-ape-107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750076433983
+status: 3
+tags: []
+user_id: Himanshu

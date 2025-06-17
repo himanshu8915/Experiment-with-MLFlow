@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/346799096807584807/models/m-3fa61bbed1ac4f3fa4e372d566133352/artifacts
+creation_timestamp: 1750079252823
+experiment_id: '346799096807584807'
+last_updated_timestamp: 1750079288195
+model_id: m-3fa61bbed1ac4f3fa4e372d566133352
+model_type: ''
+name: Rondom-Forest-Model
+source_run_id: 7967f2edca70407c8ba2721e9102352b
+status: 2
+status_message: null

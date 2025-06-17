@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/346799096807584807/3c71d03b74824c31b8c766491f6f45b4/artifacts
+end_time: 1750078182771
+entry_point_name: ''
+experiment_id: '346799096807584807'
+lifecycle_stage: active
+run_id: 3c71d03b74824c31b8c766491f6f45b4
+run_name: treasured-loon-367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750078181372
+status: 3
+tags: []
+user_id: Himanshu

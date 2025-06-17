@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3a3412a99a9a45c48b5678706d7f9a0b/artifacts
+deleted_time: 1750078255173
+end_time: 1750077253329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3a3412a99a9a45c48b5678706d7f9a0b
+run_name: bald-dove-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750077252109
+status: 4
+tags: []
+user_id: Himanshu

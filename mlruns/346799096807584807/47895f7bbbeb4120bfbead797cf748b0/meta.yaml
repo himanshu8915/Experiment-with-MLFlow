@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/346799096807584807/47895f7bbbeb4120bfbead797cf748b0/artifacts
+end_time: 1750079200380
+entry_point_name: ''
+experiment_id: '346799096807584807'
+lifecycle_stage: active
+run_id: 47895f7bbbeb4120bfbead797cf748b0
+run_name: skillful-shad-978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750079199534
+status: 4
+tags: []
+user_id: Himanshu

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3a64dcc9f63848be82168dd20b9f8d48/artifacts
+end_time: 1750077592154
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a64dcc9f63848be82168dd20b9f8d48
+run_name: crawling-kit-571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750077587788
+status: 3
+tags: []
+user_id: Himanshu

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/346799096807584807/7967f2edca70407c8ba2721e9102352b/artifacts
+end_time: 1750079288272
+entry_point_name: ''
+experiment_id: '346799096807584807'
+lifecycle_stage: active
+run_id: 7967f2edca70407c8ba2721e9102352b
+run_name: dapper-hen-178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750079250232
+status: 3
+tags: []
+user_id: Himanshu

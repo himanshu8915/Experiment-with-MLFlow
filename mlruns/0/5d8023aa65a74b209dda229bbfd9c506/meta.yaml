@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5d8023aa65a74b209dda229bbfd9c506/artifacts
+end_time: 1750077195417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d8023aa65a74b209dda229bbfd9c506
+run_name: auspicious-trout-375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750077191900
+status: 4
+tags: []
+user_id: Himanshu
