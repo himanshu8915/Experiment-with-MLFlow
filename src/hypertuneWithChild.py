@@ -86,6 +86,9 @@ with mlflow.start_run() as parent:
     #log the best model
     mlflow.sklearn.log_model(grid_search.best_estimator_,"random-forest")
 
+    #register the model
+    mlflow.register_model("runs:/5f3526f05923408fac5a0ea9d6be2b97/random-forest","Model1")
+
     #set tags
     mlflow.set_tags({"author":"Himanshu"})
     #similarly here , mlflow.set_tag("author","Himanshu") for one tag but mlflow.set_tags(needs a dict input) for multiple tags
